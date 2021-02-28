@@ -5,4 +5,5 @@ body {
 p {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(54, 54, 126); 
+    background-color: black;
 }
